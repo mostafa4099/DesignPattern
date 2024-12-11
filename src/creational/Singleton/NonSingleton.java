@@ -1,4 +1,4 @@
-package Singleton;
+package creational.Singleton;
 
 /**
  * @Author Md. Golam Mostafa | mostafa.sna@gmail.com
